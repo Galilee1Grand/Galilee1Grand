@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Galilee1Grand
 - 👀 I’m interested in Web development, video editing, programming and machine Learning
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learningthe note JS and React Native
 - 💞️ I’m looking to collaborate on any programming subject
 - 📫 How to reach me kamdemgalilee@gmail.com
 - 😄 Pronouns: Galilee1Grand
